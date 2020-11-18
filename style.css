@@ -21,7 +21,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: start;
-    width: 60%;
+    width: 47%;
     height: 100vh;
 
 }
@@ -78,7 +78,7 @@ body {
     align-items: center;
     border-radius: 50%;
     overflow: hidden;
-
+    
 }
 
 .profile-picture {
@@ -121,7 +121,7 @@ body {
     width:100%;
     justify-content: space-evenly;
     align-items: center;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 .app-download {
@@ -132,7 +132,7 @@ body {
 
 .app-download:nth-child(1) {
     background-image: url('./imgs/appstore.png');
-
+    margin-right: 10px;
 
 }
 
